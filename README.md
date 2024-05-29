@@ -1,10 +1,10 @@
-# HR Book Store
+# Book Store
 
-Welcome to HR Book Store, a MERN stack project designed to provide a seamless book store experience. This app/website allows users to explore a wide range of books, read reviews, and contribute their own feedback to help fellow readers make informed choices. We are continuously working to enhance this platform by adding new functionalities to improve the overall book store experience.
+Welcome to Book Store, a MERN stack project designed to provide a seamless book store experience. This app/website allows users to explore a wide range of books, read reviews, and contribute their own feedback to help fellow readers make informed choices. We are continuously working to enhance this platform by adding new functionalities to improve the overall book store experience.
 
 ## Live Link
 
-Access the live version of HR Book Store at [hr-book-store.vercel.app](https://hr-book-store.vercel.app/).
+Access the live version of Book Store at [book-store.vercel.app](https://hr-book-store.vercel.app/).
 
 ## Features
 
@@ -18,7 +18,7 @@ Access the live version of HR Book Store at [hr-book-store.vercel.app](https://h
 
 ## Technologies Used
 
-HR Book Store is built using the MERN stack, which includes the following technologies:
+Book Store is built using the MERN stack, which includes the following technologies:
 
 - MongoDB: A flexible and scalable NoSQL database used to store book and user information.
 - Express.js: A web application framework for Node.js, used to build the backend server and handle API requests.
